@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&display=swap..https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+ 
+.blur {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    backdrop-filter: blur(10px);
+    z-index: 1;
+}
+ 
+.container {
+    position: relative;
+    z-index: 2;
+}
+ 
+.back-button {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    padding: 10px 20px;
+    font-family: "Fira Code", monospace;
+    cursor: pointer;
+    z-index: 3;
+}
+ 
+.back-button:hover {
+    background-color: white;
+    color: white;
+}
+ 
+   .body01{
+       background-image: url(alice121.jpg);
+       background-repeat: no-repeat;
+    background-size: cover;
+  
+   }
+   
+   .body2{
+    background-image: url(Origami.jpg);
+ 
+   }
+   
+   .body3{
+    background-image: url(fotografias11.jpg);
+   }
+ 
+   .body4{
+    background-image: url(livraria22.png);
+   }
+   
+   h1.titulo{
+       margin-top: 50px;
+       text-decoration: white;
+       font-family: "Fira code", monospace;
+       text-align: center;
+   }
+ 
+   h1.titulo2{
+    text-align: center;
+    color: white;
+    font-family: "Fira code", monospace;
+   }
+   
+   .h1{
+       text-align: center;
+       margin-top: 50px;
+       color: white;
+       font-family: "Fira code", monospace;
+   }
+   
+   .p{
+       text-align: center;
+       margin-top: 50px;
+       color: white;
+       font-family: "Fira code", monospace;
+   }
+   
+   .p2{
+       text-align: center;
+   }
+ 
+   .p3{
+        color: white;
+        margin-top: 250px;
+        font-family:"crete round", serif;
+       text-align: center;
+       color: #ffffff;
+        border: 20px;
+        margin-top: 70px;
+        margin-left: 250px;
+        margin-right: 250px;
+        border-width: 10px;
+        border-radius: 25px;
+        padding: 25px;
+        backdrop-filter: blur(5px);
+        background-color: rgb(0, 0, 0, 0.4);
+   }
+   
+   .p4{
+    color: rgb(255, 238, 0);
+    margin-top: 50px;
+    text-align: center;
+    font-family:"crete round", serif;
+    border: 20px;
+    margin-top: 70px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-width: 10px;
+    border-radius: 25px;
+    padding: 25px;
+    backdrop-filter: blur(5px);
+    background-color: rgb(0, 0, 0, 0.4);
+   }
+ 
+   .p5{
+    color: white    ;
+    margin-top: 200px;
+    text-align: center;
+    border: 2px solid black;
+    font-family: "Fira code", monospace;
+    border: 20px;
+    margin-top: 70px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-width: 10px;
+    border-radius: 25px;
+    padding: 25px;
+    backdrop-filter: blur(5px);
+    background-color: rgb(0, 0, 0, 0.4);  
+   }
+ 
+   .h2{
+       text-align: center;
+       margin-top: 50px;
+       color: white;
+       font-family: "Fira code", monospace;
+   }
+.body2 {
+ 
+ background-color: white;
+ 
+ 
+ 
+}
+ 
+.body1{
+    background-image: url(alice121.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+ 
+ 
+h1.titulo{
+    margin-top: 50px;
+    color: orangered;
+    font-family: "Fira code", monospace;
+    text-align: center;
+}
+ 
+.h2{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    font-family: "Fira code", monospace;
+}
+ 
+.p{
+    text-align: center;
+    margin-top: 50px;
+    color: orangered;
+    font-family: "crete round", monospace;
+    
+}
+ 
+.p2{
+    text-align: center;
+}
+ 
+.h2{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    font-family: "Fira code", monospace;
+}
+ 
